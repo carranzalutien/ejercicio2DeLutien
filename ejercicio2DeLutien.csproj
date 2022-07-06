@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\pseint\PARCIAL.PRO\Ejercicio2DeLutien.visual" Link="Ejercicio2DeLutien.visual" />
+  </ItemGroup>
+
+</Project>
